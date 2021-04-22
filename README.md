@@ -1,5 +1,5 @@
 # Gmod-Addon-Giant-Job-Script
-Addon that gives you head shaking and step sounds for a specific giant job.
+Addon that gives you head bobble and step sounds for a specific giant job.
 
 # Configuration
 Dont forget to edit the configuration files for your own use!
